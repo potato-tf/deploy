@@ -1,17 +1,17 @@
 {
     "servers": [
-        "22 pterodactyl@aus.potato.tf",
-        "22 pterodactyl@us.potato.tf",
-        "27040 pterodactyl@us.potato.tf",
-        "2849 pterodactyl@us.potato.tf",
-        "22 pterodactyl@ustx.potato.tf",
-        "22 pterodactyl@nl.potato.tf",
-        "22 pterodactyl@nl2.potato.tf",
-        "2002 pterodactyl@nl3.potato.tf",
-        "28001 pterodactyl@pl.potato.tf",
-        "22 pterodactyl@storage.potato.tf",
-        "22 pterodactyl@sgp.potato.tf",
-        "22 pterodactyl@br.potato.tf",
-        "47422 redho@tziah.thebel.net"
+        "22 pterodactyl@aus.potato.tf /var/",
+        "22 pterodactyl@us.potato.tf /var/",
+        "27040 pterodactyl@us.potato.tf /var/",
+        "2849 pterodactyl@us.potato.tf /var/",
+        "22 pterodactyl@ustx.potato.tf /var/",
+        "22 pterodactyl@nl.potato.tf /var/",
+        "22 pterodactyl@nl2.potato.tf /var/",
+        "2002 pterodactyl@nl3.potato.tf /var/",
+        "28001 pterodactyl@pl.potato.tf /var/",
+        "22 pterodactyl@storage.potato.tf /var/",
+        "22 pterodactyl@sgp.potato.tf /var/",
+        "22 pterodactyl@br.potato.tf /var/",
+        "47422 redho@tziah.thebel.net /home/redho/"
     ]
 }
