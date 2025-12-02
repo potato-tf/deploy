@@ -10,6 +10,7 @@
         "28001 pterodactyl@pl.potato.tf /var",
         "22 pterodactyl@storage.potato.tf /var",
         "22 pterodactyl@sgp.potato.tf /var",
-        "22 pterodactyl@usw.potato.tf /var"
+        "22 pterodactyl@usw.potato.tf /var",
+        "22 pterodactyl@ca.potato.tf /var"
     ]
 }
